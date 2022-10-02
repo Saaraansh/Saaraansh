@@ -3,6 +3,12 @@
 <img width = "35%" align="right" alt="img" height="300px" src="https://hardwarebee.com/wp-content/uploads/2017/08/Depositphotos_10737657_m-2015s.jpg"/>
 <div align="left"> 
 
+An **Embedded Systems and IoT Enthusiast** who has a fair knowledge of microcontrollers and microprocessors along with basic communication protocols used by the sensors to interact with controller just like we human interact with each other and exchange information. 
+ 
+- 🎓 &nbsp;I'm a 4th year undergrad studying ECE at @BVP New Delhi.
+- 💼 &nbsp; I’m currently working on ARM based Microcontroller.
+- ✍️ &nbsp; An enthusiast and a learner, ready to take challanges and complete it.
+
 <!--
 **Saaraansh/Saaraansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
