@@ -1,10 +1,10 @@
 <h1 align="center">Hola Amigos!👋 Myself Saaransh Panjrath </h1>
 
-<img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png">
+<img width = "35%" align="right" alt="img" height="300px" src="https://hardwarebee.com/wp-content/uploads/2017/08/Depositphotos_10737657_m-2015s.jpg"/>
+<div align="left"> 
 
 <!--
 **Saaraansh/Saaraansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(https://user-images.githubusercontent.com/84224236/193446269-f0b56b28-c509-422f-a835-0e590f4646d5.png)
 
 
 Here are some ideas to get you started:
