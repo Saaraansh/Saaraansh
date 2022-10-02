@@ -1,8 +1,10 @@
-                                                                          ### Hola Amigos!👋 Myself Saaransh Panjrath 
+<h1 align="center">Hola Amigos!👋 Myself Saaransh Panjrath </h1>
+
+<img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png">
 
 <!--
 **Saaraansh/Saaraansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://user-images.githubusercontent.com/84224236/193446269-f0b56b28-c509-422f-a835-0e590f4646d5.png)
+(https://user-images.githubusercontent.com/84224236/193446269-f0b56b28-c509-422f-a835-0e590f4646d5.png)
 
 
 Here are some ideas to get you started:
