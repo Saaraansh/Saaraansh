@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigos!👋 Myself Saaransh Panjrath </h1>
 
-<img width = "35%" align="right" alt="img" height="300px" src="https://hardwarebee.com/wp-content/uploads/2017/08/Depositphotos_10737657_m-2015s.jpg"/>
+<img width = "50%" align="right" alt="img" height="300px" src="https://hardwarebee.com/wp-content/uploads/2017/08/Depositphotos_10737657_m-2015s.jpg"/>
 <div align="left"> 
 
 An **Embedded Systems and IoT Enthusiast** who has a fair knowledge of microcontrollers and microprocessors along with basic communication protocols used by the sensors to interact with controller just like we human interact with each other and exchange information. 
