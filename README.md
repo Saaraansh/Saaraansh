@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigos!👋 Myself Saaransh Panjrath </h1>
 
-<img width = "638" align="right" alt="img" height="479" src="[https://media.licdn.com/dms/image/C4D22AQEsxYcYw-L2Sw/feedshare-shrink_2048_1536/0/1679419737001?e=1684368000&v=beta&t=1Q228doi-c-KKxsjBDoY2ebwtU3e5eOpkMH9kW1HbcQ](https://media.licdn.com/dms/image/C4D22AQEsxYcYw-L2Sw/feedshare-shrink_2048_1536/0/1679419737001?e=1687392000&v=beta&t=rvoLyQ3TVmUYbO6Yvh3Us2p0KT96GchLrEe4tpkP63o)"/>
+<img width = "638" align="right" alt="img" height="479" src="https://media.licdn.com/dms/image/C4D22AQEsxYcYw-L2Sw/feedshare-shrink_2048_1536/0/1679419737001?e=1687392000&v=beta&t=rvoLyQ3TVmUYbO6Yvh3Us2p0KT96GchLrEe4tpkP63o"/>
 <div align="left"> 
 
 An **Embedded Systems and IoT Enthusiast** who has a fair knowledge of microcontrollers and microprocessors along with basic communication protocols used by the sensors to interact with controller just like we human interact with each other and exchange information. 
